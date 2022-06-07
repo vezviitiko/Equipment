@@ -2,6 +2,7 @@
 Тестовое задание по python и sql
 
 Наш стек: aioredis, fastapi, asyncpg/aiopg
+
 Тестовое приложение должно подключатся к PostgreSQL и Redis и реализовать
 следующие API:
 
